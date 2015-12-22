@@ -1,0 +1,30 @@
+{
+  "name": "karma-funcunit",
+  "version": "0.0.0",
+  "description": "A Karma plugin - adapter for FuncUnit testing framework.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-xiong/karma-funcunit.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-adapter",
+    "funcunit"
+  ],
+  "author": "vxiong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victor-xiong/karma-funcunit/issues"
+  },
+  "homepage": "https://github.com/victor-xiong/karma-funcunit#readme",
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "funcunit": "^3.0.0",
+    "grunt": "^0.4.5",
+    "qunitjs": "^1.20.0"
+  }
+}
