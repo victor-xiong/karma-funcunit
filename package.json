@@ -15,7 +15,7 @@
     "karma-adapter",
     "funcunit"
   ],
-  "author": "vxiong",
+  "author": "Victor Xiong <victor.xiong24@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/victor-xiong/karma-funcunit/issues"
