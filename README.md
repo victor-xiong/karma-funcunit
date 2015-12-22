@@ -1,1 +1,1 @@
-# Karma FuncUnit Plugin
+# karma-funcunit
