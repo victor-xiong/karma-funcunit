@@ -13,6 +13,7 @@
   "keywords": [
     "karma-plugin",
     "karma-adapter",
+    "karma-framework",
     "funcunit"
   ],
   "author": "Victor Xiong <victor.xiong24@gmail.com>",
